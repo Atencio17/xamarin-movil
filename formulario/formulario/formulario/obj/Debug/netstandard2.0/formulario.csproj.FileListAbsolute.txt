@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\formulario\formulario\formulario\bin\Debug\netstandard2.0\formulario.deps.json
+C:\Users\gusta\source\repos\formulario\formulario\formulario\bin\Debug\netstandard2.0\formulario.dll
+C:\Users\gusta\source\repos\formulario\formulario\formulario\bin\Debug\netstandard2.0\formulario.pdb
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.AssemblyInfo.cs
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.dll
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\refint\formulario.dll
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\formulario.pdb
+C:\Users\gusta\source\repos\formulario\formulario\formulario\obj\Debug\netstandard2.0\ref\formulario.dll

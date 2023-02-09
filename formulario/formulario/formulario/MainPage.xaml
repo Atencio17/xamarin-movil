@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="formulario.MainPage">
+
+    <StackLayout Margin="20">
+
+        <Label Text="Formulario" FontSize="Title"/>
+
+        <Picker Title="Tipo de identificacion">
+            <Picker.Items>
+                <x:String>Tarjeta de identidad</x:String>
+                <x:String>Cedula de ciudadania</x:String>
+                <x:String>Pasaporte</x:String>
+            </Picker.Items>
+        </Picker>
+        <Label Text="Numero de identificacion:"/>
+        <Entry Placeholder="123456789" FontSize="Medium"/>
+
+        <Label Text="Nombre:"/>
+        <Entry Placeholder="Fulanito" FontSize="Medium"/>
+        <Label Text="Apellido:"/>
+        <Entry Placeholder="Detal" FontSize="Medium"/>
+        
+        <Label Text="Contraseña:"/>
+        <Entry Placeholder="*****" FontSize="Medium" IsPassword="True"/>
+        <Label Text="Confirmar contraseña:"/>
+        <Entry Placeholder="*****" FontSize="Medium" IsPassword="True"/>
+        
+        <Label Text="Fecha de nacimiento:"/>
+        <DatePicker/>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Genero:"/>
+            <RadioButton/>
+            <Label Text="Hombre"/>
+            <RadioButton/>
+            <Label Text="Mujer"/>
+        </StackLayout>
+
+        <Button Text="Registrar" Clicked="registrar"/>
+
+    </StackLayout>
+
+</ContentPage>
